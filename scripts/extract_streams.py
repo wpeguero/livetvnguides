@@ -5,6 +5,9 @@ na = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/mo
 
 
 def main():
+    cookies = get_cookies('cookies.txt')
+    print(cookies)
+    exit()
     print(M3U)
     with open("channel_info.txt") as f:
         quality = "best"
@@ -47,6 +50,18 @@ def grab(link: str, quality: str):
         best = na
         print(e)
     print(f"{best}")
+
+def get_cookies(fn:str) -> dict:
+    """Gets the cookies from the text file."""
+    with open(fn, 'r') as fp:
+        raw_text = fp.readlines()
+        fp.close()
+    cookies = dict()
+    for rvalue in raw_text:
+        rvalue = rvalue.replace('\n', '')
+        key, value = rvalue.split('=', maxsplit=1)
+        cookies[key] = value
+    return cookies
 
 
 main()
