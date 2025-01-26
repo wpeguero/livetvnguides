@@ -1,4 +1,5 @@
 import streamlink
+from typing import Optional
 
 M3U = "#EXTM3U\n"
 na = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
@@ -6,8 +7,6 @@ na = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/mo
 
 def main():
     cookies = get_cookies('cookies.txt')
-    print(cookies)
-    exit()
     print(M3U)
     with open("channel_info.txt") as f:
         quality = "best"
@@ -26,13 +25,16 @@ def main():
                     f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}'
                 )
             else:
-                grab(line, quality)
+                grab(line, quality, cookies)
 
 
-def grab(link: str, quality: str):
+def grab(link: str, quality: str, cookies:Optional[dict]=None) -> None:
     """Extract the url link to view the show."""
     session = streamlink.Streamlink()
-    streams = session.streams(link)
+    if (cookies is None) & ('youtube' in link):
+        streams = session.streams(link, options=cookies)
+    else:
+        streams = session.streams(link)
     try:
         best = streams["best"].url
         if "youtube" in link:
