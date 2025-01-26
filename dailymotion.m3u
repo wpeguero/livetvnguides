@@ -1,0 +1,26 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
+https://live-b.cf.dmcdn.net/sec2(c5Mcau0RQj9g6qhy7qU4paTxeLtN9JY6MiOObqRANXtnIyi0M6qfhbSpuYOrItpzaMV0DxQPJ_CtVzCkbTzp9UG9TMjoq4--ZVumholyu-ZNspnqSJtRiGHHBWUPeYOt)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
+https://live-b.cf.dmcdn.net/sec2(LkbkYtyT7kPzEgslEWlDS-IAr5I51UV8vmMpXSTKiwd7_58k1RlugOJVhFK78ciYVrPHF4TB7HdvlUKNgSAcEu_-tQLaoQx4PeIx6_3S7x7ZdB3E4BVKTtVxvINJjdPW)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/mm2g9U3.png" tvg-id="0011", Telesistema 11 EN VIVO
+https://live-b2.cf.dmcdn.net/sec2(7LLf3q7X02-TNzkLS2YXl19DtqbrhNEsm35OrXJ2z_UsqF0qMRSPKD8wMm8pezHsxniBwRB4ploTxVMHZTe9VQcXcDgMilfkB0g5AIhFr4085QaqWqGn3PJmubI0G2Dh)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcfb2
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/Jgwi3fP.png" tvg-id="0005", Telemicro EN VIVO
+https://playback.akamaized.net/streams/27456795_10633780_lsidib0p5gn5rpwtkbk_1/media/27456795_10633780_lsidib0p5gn5rpwtkbk_1@5256000p.m3u8?dw=80&ts=1737849600&hdnts=exp=1738025550~acl=/streams/27456795_10633780_lsidib0p5gn5rpwtkbk_1/media*~hmac=b1fa06273a143c5241afe5b33c66812f212420f55bb0d2b013978f0b9c681750
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/g5rEOyF.png" tvg-id="0013", Telecentro EN VIVO
+https://playback.akamaized.net/streams/27456795_10501048_lsiu789yq8d11tv62zz_1/media/27456795_10501048_lsiu789yq8d11tv62zz_1@2756000p.m3u8?dw=80&ts=1737849600&hdnts=exp=1738025550~acl=/streams/27456795_10501048_lsiu789yq8d11tv62zz_1/media*~hmac=5ab74c43d6b84ff4ed816e56b94a228ddf70c5a2d23fafbe4e9d70be66ef8cf8
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/3dMYndw.png" tvg-id="0015", Digital 15 EN VIVO
+https://playback.akamaized.net/streams/27456795_10633798_lsizcx9yue9ory470ad_1/media/27456795_10633798_lsizcx9yue9ory470ad_1@2756000p.m3u8?dw=80&ts=1737849600&hdnts=exp=1738025535~acl=/streams/27456795_10633798_lsizcx9yue9ory470ad_1/media*~hmac=ba1c3cbdfb32fd27786ca37fc7e86e36c54ef34eaca0eeec631e178ea9114fc7
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/vshjA7l.png" tvg-id="0039", Coral EN VIVO
+https://live-c2.cf.dmcdn.net/sec2(HKXOCIg8q7AXDXrL_-YNaQczqebT9NOty6Xl-baYfNFqgaW32tuNqKtRNaYKT_JtuC4f70WYwquEKBiJx1Oh19WGy7Gkw0E6PF_YUj1l3AP3_7eEO6iQ0aJfd3zn_1XS)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcfc2
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/XDRU7Ne.png" tvg-id="0012", ZTV EN VIVO
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737874352/ei/UIeVZ_TKDf2LkucP-uiT2QM/ip/24.102.172.32/id/dZfzJ0c265Q.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-2xouxaxq5u5-5cxy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-MtKDqmmzNsb_7PXqYa1Z_dPJj_QKJ6iYKCNr1nJynARPVhn1rWHhRhYJrrvNh5JQoIar9edSon/spc/9kzgDX8VrCiKJXdkr1scGRw6aa6oMB0DGUtSHSUXNqBDEk_9NAbRe1uRuaAfYN2GsSbWLKk/vprv/1/playlist_type/DVR/initcwndbps/4307500/met/1737852753,/mh/h0/mm/44/mn/sn-2xouxaxq5u5-5cxy/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294/mt/1737852266/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgaLq-I5r4azhvKUva0stAk6MXDZZT_fmLwGkAxqn95CICIH5uP-DRfNvgKMJM2QPwkJ2j05xSCOatYmgraLTNdI9t/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AGluJ3MwRQIhANGnijxIBOXRYnM6raNAkocyiLFdaRBb1E2WDXgj-eV-AiAVFlsHNHcCZE1mS7TiIGMGBCz7b5cxJsTXs5a0TE6qaQ%3D%3D/playlist/index.m3u8
